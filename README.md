@@ -16,7 +16,11 @@ npm run dev
 ```
 npm run lint
 ```
+### Run PM2
 
+```
+pm2 start src/app.js
+```
 ## ENV
 
 Criar o arquivo **.env** do arquivo **.env.example**
